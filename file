@@ -1,0 +1,4 @@
+This file is used for configuration for the credentials for postgresql
+username = root
+password = toor
+database = mydb
