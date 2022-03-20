@@ -1,0 +1,13 @@
+{
+      "alg": "RS256",
+      "typ": "JWT"
+    }
+    .
+    {
+      "iss": "https://example.auth0.com/",
+      "aud": "https://api.example.com/calendar/v1/",
+      "sub": "usr_123",
+      "scope": "read write",
+      "iat": 1458785796,
+      "exp": 1458872196
+    }
